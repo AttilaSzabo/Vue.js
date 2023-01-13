@@ -1,7 +1,5 @@
 ### Learning Vue.js
 
-#### http://weboldal.fejlessz.hu/
-
 **12.01.2023**
 
 * I installed Vite from the Vue.js installation options.
