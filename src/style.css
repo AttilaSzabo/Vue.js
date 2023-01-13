@@ -95,3 +95,23 @@ body {
   text-align: center;
   font-size: 10px;
 }
+
+.error {
+  height: 10px;
+  margin-top: 10px;
+  font-size: 1.1rem;
+  color: white;
+  animation: blinking 3.5s linear infinite;
+}
+
+@keyframes blinking {
+    0% {
+         transform: scale(1.0);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1.0);
+    }
+}
